@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://anhemtrader.com/$1"
+ }
+  ]
+}
