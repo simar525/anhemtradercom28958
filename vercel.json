@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/vn",       "destination": "/https:anhemtrader.comchannel🚀 Bắt đầu",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://anhemtrader.com/$1"
- }
+    }
   ]
 }
+    
